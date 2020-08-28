@@ -4,6 +4,7 @@
 
 - Excel
 - SQL
+- Python
 - Pandas
 - Numpy
 
@@ -12,6 +13,7 @@
 - Scipy
 - Scikit-learn
 - Pytorch / TensorFLow
+- Fastai
 
 进阶大数据分析：
 
