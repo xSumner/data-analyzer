@@ -142,3 +142,182 @@ AI驱动的引擎能够根据收集的数据生成描述，通过遵循将数据
 文本聚类主要是依据著名的**聚类假设**：同类的文档相似度较大，而不同类的文档相似度较小。作为一种无监督的机器学习方法，聚类由于不需要训练过程，以及不需要预先对文档的类别进行手工标注，因此具有一定的灵活性和较高的自动化处理能力。
 
 文本聚类已经成为对文本信息进行有效地组织、摘要和导航的重要手段。文本聚类的方法主要有基于划分的聚类算法、基于层次的聚类算法和基于密度的聚类算法。
+
+
+
+### Ⅲ. 常用的Python NLP代码库
+
+![3](img/3.png)
+
+这些软件包可处理多种NLP任务，例如词性（POS）标注，依存分析，文档分类，主题建模等等。
+
+目前有许多工具和库用于解决NLP问题，**NLP库的基本目标是简化文本预处理。**
+
+但是在此之前，应该掌握有关NLP的各个组成领域和主题的一些基础知识。
+
+#### 扎实基础
+
+对于学习自然语言处理的理论基础，网络上有丰富的资源可以学习：
+
+- [**斯坦福课程**](http://web.stanford.edu/class/cs224n/)
+- [**Deeplearning.ai**](https://www.coursera.org/specializations/natural-language-processing)
+- [**自然语言处理，语音识别和计算语言学导论（又名NLP圣经）**](https://web.stanford.edu/~jurafsky/slp3/)
+- [**统计自然语言处理的基础**](https://nlp.stanford.edu/fsnlp/)
+
+
+
+#### 1. Spacy
+
+spaCy 是Python中比较出名，专门用于自然语言处理的库。它有助于实现最先进的效率和敏捷性，并拥有活跃的开源组织积极贡献代码。
+
+**加分项：**
+
+- 与所有主要的深度学习框架很好地结合，并预装了一些出色且有用的语言模型
+- 由于Cython支持，速度相对较快
+
+**使用spaCy最适合做的事情**
+
+1. **词性（POS）标注：**这是给单词标记制定语法属性（例如名词，动词，形容词，副词等）过程。
+2. **实体识别：**将文本中发现的命名实体标记到预定义实体类型。
+3. **依存分析：**分配语法依存标签，描述各个标记（例如主题或客体）之间的关系。
+4. **文本分类：**为整个文档或文档的一部分分配类别或标签。
+5. **句子边界检测（SBD）：**查找和分割单个句子。
+
+**相关资源**
+
+免费官方课程的链接：[基于spaCy的高级NLP](https://course.spacy.io/en/)
+
+**更多资源**
+
+- [**使用Python中的spaCy进行自然语言处理（入门博客）**](https://realpython.com/natural-language-processing-spacy-python/)
+- [**Python Spacy简介（视频）**](https://realpython.com/natural-language-processing-spacy-python/)
+
+
+
+#### 2. NLTK
+
+NLTK是目前可用的最优秀的NLP模型训练库之一。该库是NLP入门python库。它是NLP的初学者常用的库。它具有许多预先训练的模型和语料库，可帮助我们非常快速地分析事物。
+
+**加分项：**内置支持数十种语料库和训练完备的模型
+
+使用NLTK可以实现一下需求：
+
+1. **推荐**：可以基于相似性来推荐内容。
+2. **情感分析**：通过自然语言处理来衡量人们的观点倾向
+3. **Wordnet [1]支持：**我们可以使用Synset 在WordNet中查找单词。因此可以访问许多单词的同音异义词，上位词，同义词，定义，词族等
+4. **机器翻译：**用于将源语言翻译成目标语言
+
+**其他资源**
+
+- [**官方的教材：《使用自然语言工具包分析文本》**](https://www.nltk.org/book/)
+- [**Python的NLTK（自然语言工具包）教程**](https://www.guru99.com/nltk-tutorial.html)
+- [**Wordnet文档— WordNet 3.0参考手册**](https://wordnet.princeton.edu/documentation)
+
+与spaCy专注于提供用于生产用途的软件不同，NLTK被广泛用于教学和研究。
+
+
+
+#### 3.Transformers
+
+该Transformers库是开源，基于社区的信息库，使用和共享模型基于Transformer结构[2]如Bert[3]，Roberta[4]，GPT2 [5]，XLNet [6]，等等。
+
+该库提供自然语言理解（NLU）和自然语言生成（NLG）任务预训练模型下载。
+
+**加分项：**超过32种采用100种以上语言的训练的预训练模型，以及TensorFlow 2.0和PyTorch之间的深度互操作性。最适合深度学习。
+
+**Transformers可以做到一下事情**
+
+1. **摘要生成：**摘要是将文本/文章摘要为较短文本的任务。
+2. **翻译：**将文本从一种语言翻译成另一种语言的任务。
+3. **文本生成：**基于上下文，生成连贯的下文。
+4. **抽取式问答：**从给定问题的文本中提取答案的任务。
+
+**相关资源：**
+
+- [**官方文档**](https://huggingface.co/transformers/)
+- [**使用BERT，HuggingFace和AWS Lambda构建问题解答API**](https://towardsdatascience.com/serverless-bert-with-huggingface-and-aws-lambda-625193c6cc04)
+- [**使用BERT和Transformers进行情感分析**](https://www.curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/)
+
+
+
+#### 4. Gensim
+
+Gensim是一个Python库，专门用于通过向量空间建模和主题建模工具包来识别两个文档之间的语义相似性
+
+顺便说一下，它是“ Generate Similar”（Gensim）的缩写：)
+
+**优点：**高水平的处理速度和可以处理大量文本。
+
+**Gensim适合处理的需求：**
+
+1. **分布式计算：**它可以在计算机集群上运行隐语义分析和隐Dirichlet分配。（可以处理大量数据的原因）
+2. **文档索引：**将信息与文件或特定标签相关联的过程，以便以后可以轻松检索
+3. **主题建模：**自动聚类单词group和定义一组文档的相似表达式。
+4. **相似性检索：**处理文档存储库中相似信息的组织，存储，检索和评估（此处为文本信息）
+
+**资源**
+
+- [**官方API文档-API参考**](https://radimrehurek.com/gensim/apiref.html)
+- [**官方教程- 核心教程**](https://radimrehurek.com/gensim/auto_examples/)
+- [**使用Gensim LDA进行分层文档聚类— 使用Python进行文档聚类**](http://brandonrose.org/clustering#Latent-Dirichlet-Allocation)
+- [**安装，处理等Gensim入门教程**](https://stackabuse.com/python-for-nlp-working-with-the-gensim-library-part-1/)
+
+
+
+#### 5. Stanza
+
+**Stanza将许多准确而有效自然语言处理工具收集在一起，组成工具包。从原始文本到句法分析和实体识别，Stanza将最新的NLP模型引入语言处理中。**
+
+该工具包建立在PyTorch库的之上，并支持使用GPU和预训练的神经模型。
+
+**此外，Stanza包括一个CoreNLP Java包的Python接口，并从那里继承了附加功能。**
+
+**优点：快速，准确，并且能够支持几种主要语言。适用于生产部署环境。**
+
+**资源：**[CoreNLP的Python包装器列表](http://stanfordnlp.github.io/CoreNLP/other-languages.html#python)
+
+**Stanza适合处理的需求：**
+
+1. **形态特征标记：**对于句子中的每个单词，Stanza都会评估其普遍的形态特征（例如，单身/复数，第一/第二/第三人称等）。
+2. **多词令牌扩展：**将句子扩展成句法词，作为下游处理的基础。
+
+**这五个库的固有特性使其成为依赖于机器对人类表达的理解的所有项目的首选。**
+
+#### 参考文献
+
+1. [WordNet简介：在线词汇数据库 — George A. Miller等。1993年](https://wordnetcode.princeton.edu/5papers.pdf)
+
+2. [Attention Is All You Need — Vaswani等人，2017。](https://arxiv.org/abs/1706.03762)
+
+3. [BERT：用于语言理解的深度双向Transformers的预训练 — Devlin等人，2018年。](https://arxiv.org/abs/1810.04805)
+
+4. [RoBERTa：一种经过严格优化的BERT预训练方法 — Liu等，2019年。](https://arxiv.org/abs/1907.11692)
+
+5. [语言模型是无监督的多任务学习者（GPT2） — Radford等人，2019年。](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+6. [XLNet：用于语言理解的广义自回归预训练 — Yang等人，2019年。](https://arxiv.org/abs/1906.08237)
+
+7. [Stanza：适用于多种人类语言的Python自然语言处理工具包 — Peng等人，2020年。](https://arxiv.org/abs/2003.07082)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
