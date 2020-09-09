@@ -39,8 +39,6 @@
 <font color=blue size=4>效果如下：</font>
 
 <table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>
-
-
 ### 三、设置图片大小
 
 #### 1、设置设置图片百分比
@@ -82,8 +80,6 @@
 <font color=blue size=4>效果如下：</font>
 
 <div align=right><img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="50%" height="50%"></div>
-
-
 ### 四、参考链接
 
 #### 1、RGB颜色对照表
@@ -320,7 +316,6 @@
    ===
    小标题
    ---
-
 
 ---
 5. ##### 标题：Atx方式
@@ -893,9 +888,6 @@ markdown绝大多数编辑器都是支持html语言的，markdown本身不支持
 #### 4、颜色列表
 
 <table><tbody><tr><th>颜色名</th><th>十六进制颜色值</th><th>颜色</th></tr><tr><td><font color="AliceBlue">AliceBlue</font></td><td><font color="#F0F8FF">#F0F8FF</font></td><td bgcolor="#F0F8FF">rgb(240, 248, 255)</td></tr><tr><td><font color="AntiqueWhite">AntiqueWhite</font></td><td><font color="#FAEBD7">#FAEBD7</font></td><td bgcolor="#FAEBD7">rgb(250, 235, 215)</td></tr><tr><td><font color="Aqua">Aqua</font></td><td><font color="#00FFFF">#00FFFF</font></td><td bgcolor="#00FFFF">rgb(0, 255, 255)</td></tr><tr><td><font color="Aquamarine">Aquamarine</font></td><td><font color="#7FFFD4">#7FFFD4</font></td><td bgcolor="#7FFFD4">rgb(127, 255, 212)</td></tr><tr><td><font color="Azure">Azure</font></td><td><font color="#F0FFFF">#F0FFFF</font></td><td bgcolor="#F0FFFF">rgb(240, 255, 255)</td></tr><tr><td><font color="Beige">Beige</font></td><td><font color="#F5F5DC">#F5F5DC</font></td><td bgcolor="#F5F5DC">rgb(245, 245, 220)</td></tr><tr><td><font color="Bisque">Bisque</font></td><td><font color="#FFE4C4">#FFE4C4</font></td><td bgcolor="#FFE4C4">rgb(255, 228, 196)</td></tr><tr><td><font color="Black">Black</font></td><td><font color="#000000">#000000</font></td><td bgcolor="#000000">rgb(0, 0, 0)</td></tr><tr><td><font color="BlanchedAlmond">BlanchedAlmond</font></td><td><font color="#FFEBCD">#FFEBCD</font></td><td bgcolor="#FFEBCD">rgb(255, 235, 205)</td></tr><tr><td><font color="Blue">Blue</font></td><td><font color="#0000FF">#0000FF</font></td><td bgcolor="#0000FF">rgb(0, 0, 255)</td></tr><tr><td><font color="BlueViolet">BlueViolet</font></td><td><font color="#8A2BE2">#8A2BE2</font></td><td bgcolor="#8A2BE2">rgb(138, 43, 226)</td></tr><tr><td><font color="Brown">Brown</font></td><td><font color="#A52A2A">#A52A2A</font></td><td bgcolor="#A52A2A">rgb(165, 42, 42)</td></tr><tr><td><font color="BurlyWood">BurlyWood</font></td><td><font color="#DEB887">#DEB887</font></td><td bgcolor="#DEB887">rgb(222, 184, 135)</td></tr><tr><td><font color="CadetBlue">CadetBlue</font></td><td><font color="#5F9EA0">#5F9EA0</font></td><td bgcolor="#5F9EA0">rgb(95, 158, 160)</td></tr><tr><td><font color="Chartreuse">Chartreuse</font></td><td><font color="#7FFF00">#7FFF00</font></td><td bgcolor="#7FFF00">rgb(127, 255, 0)</td></tr><tr><td><font color="Chocolate">Chocolate</font></td><td><font color="#D2691E">#D2691E</font></td><td bgcolor="#D2691E">rgb(210, 105, 30)</td></tr><tr><td><font color="Coral">Coral</font></td><td><font color="#FF7F50">#FF7F50</font></td><td bgcolor="#FF7F50">rgb(255, 127, 80)</td></tr><tr><td><font color="CornflowerBlue">CornflowerBlue</font></td><td><font color="#6495ED">#6495ED</font></td><td bgcolor="#6495ED">rgb(100, 149, 237)</td></tr><tr><td><font color="Cornsilk">Cornsilk</font></td><td><font color="#FFF8DC">#FFF8DC</font></td><td bgcolor="#FFF8DC">rgb(255, 248, 220)</td></tr><tr><td><font color="Crimson">Crimson</font></td><td><font color="#DC143C">#DC143C</font></td><td bgcolor="#DC143C">rgb(220, 20, 60)</td></tr><tr><td><font color="Cyan">Cyan</font></td><td><font color="#00FFFF">#00FFFF</font></td><td bgcolor="#00FFFF">rgb(0, 255, 255)</td></tr><tr><td><font color="DarkBlue">DarkBlue</font></td><td><font color="#00008B">#00008B</font></td><td bgcolor="#00008B">rgb(0, 0, 139)</td></tr><tr><td><font color="DarkCyan">DarkCyan</font></td><td><font color="#008B8B">#008B8B</font></td><td bgcolor="#008B8B">rgb(0, 139, 139)</td></tr><tr><td><font color="DarkGoldenRod">DarkGoldenRod</font></td><td><font color="#B8860B">#B8860B</font></td><td bgcolor="#B8860B">rgb(184, 134, 11)</td></tr><tr><td><font color="DarkGray">DarkGray</font></td><td><font color="#A9A9A9">#A9A9A9</font></td><td bgcolor="#A9A9A9">rgb(169, 169, 169)</td></tr><tr><td><font color="DarkGreen">DarkGreen</font></td><td><font color="#006400">#006400</font></td><td bgcolor="#006400">rgb(0, 100, 0)</td></tr><tr><td><font color="DarkKhaki">DarkKhaki</font></td><td><font color="#BDB76B">#BDB76B</font></td><td bgcolor="#BDB76B">rgb(189, 183, 107)</td></tr><tr><td><font color="DarkMagenta">DarkMagenta</font></td><td><font color="#8B008B">#8B008B</font></td><td bgcolor="#8B008B">rgb(139, 0, 139)</td></tr><tr><td><font color="DarkOliveGreen">DarkOliveGreen</font></td><td><font color="#556B2F">#556B2F</font></td><td bgcolor="#556B2F">rgb(85, 107, 47)</td></tr><tr><td><font color="Darkorange">Darkorange</font></td><td><font color="#FF8C00">#FF8C00</font></td><td bgcolor="#FF8C00">rgb(255, 140, 0)</td></tr><tr><td><font color="DarkOrchid">DarkOrchid</font></td><td><font color="#9932CC">#9932CC</font></td><td bgcolor="#9932CC">rgb(153, 50, 204)</td></tr><tr><td><font color="DarkRed">DarkRed</font></td><td><font color="#8B0000">#8B0000</font></td><td bgcolor="#8B0000">rgb(139, 0, 0)</td></tr><tr><td><font color="DarkSalmon">DarkSalmon</font></td><td><font color="#E9967A">#E9967A</font></td><td bgcolor="#E9967A">rgb(233, 150, 122)</td></tr><tr><td><font color="DarkSeaGreen">DarkSeaGreen</font></td><td><font color="#8FBC8F">#8FBC8F</font></td><td bgcolor="#8FBC8F">rgb(143, 188, 143)</td></tr><tr><td><font color="DarkSlateBlue">DarkSlateBlue</font></td><td><font color="#483D8B">#483D8B</font></td><td bgcolor="#483D8B">rgb(72, 61, 139)</td></tr><tr><td><font color="DarkSlateGray">DarkSlateGray</font></td><td><font color="#2F4F4F">#2F4F4F</font></td><td bgcolor="#2F4F4F">rgb(47, 79, 79)</td></tr><tr><td><font color="DarkTurquoise">DarkTurquoise</font></td><td><font color="#00CED1">#00CED1</font></td><td bgcolor="#00CED1">rgb(0, 206, 209)</td></tr><tr><td><font color="DarkViolet">DarkViolet</font></td><td><font color="#9400D3">#9400D3</font></td><td bgcolor="#9400D3">rgb(148, 0, 211)</td></tr><tr><td><font color="DeepPink">DeepPink</font></td><td><font color="#FF1493">#FF1493</font></td><td bgcolor="#FF1493">rgb(255, 20, 147)</td></tr><tr><td><font color="DeepSkyBlue">DeepSkyBlue</font></td><td><font color="#00BFFF">#00BFFF</font></td><td bgcolor="#00BFFF">rgb(0, 191, 255)</td></tr><tr><td><font color="DimGray">DimGray</font></td><td><font color="#696969">#696969</font></td><td bgcolor="#696969">rgb(105, 105, 105)</td></tr><tr><td><font color="DodgerBlue">DodgerBlue</font></td><td><font color="#1E90FF">#1E90FF</font></td><td bgcolor="#1E90FF">rgb(30, 144, 255)</td></tr><tr><td><font color="Feldspar">Feldspar</font></td><td><font color="#D19275">#D19275</font></td><td bgcolor="#D19275">rgb(209, 146, 117)</td></tr><tr><td><font color="FireBrick">FireBrick</font></td><td><font color="#B22222">#B22222</font></td><td bgcolor="#B22222">rgb(178, 34, 34)</td></tr><tr><td><font color="FloralWhite">FloralWhite</font></td><td><font color="#FFFAF0">#FFFAF0</font></td><td bgcolor="#FFFAF0">rgb(255, 250, 240)</td></tr><tr><td><font color="ForestGreen">ForestGreen</font></td><td><font color="#228B22">#228B22</font></td><td bgcolor="#228B22">rgb(34, 139, 34)</td></tr><tr><td><font color="Fuchsia">Fuchsia</font></td><td><font color="#FF00FF">#FF00FF</font></td><td bgcolor="#FF00FF">rgb(255, 0, 255)</td></tr><tr><td><font color="Gainsboro">Gainsboro</font></td><td><font color="#DCDCDC">#DCDCDC</font></td><td bgcolor="#DCDCDC">rgb(220, 220, 220)</td></tr><tr><td><font color="GhostWhite">GhostWhite</font></td><td><font color="#F8F8FF">#F8F8FF</font></td><td bgcolor="#F8F8FF">rgb(248, 248, 255)</td></tr><tr><td><font color="Gold">Gold</font></td><td><font color="#FFD700">#FFD700</font></td><td bgcolor="#FFD700">rgb(255, 215, 0)</td></tr><tr><td><font color="GoldenRod">GoldenRod</font></td><td><font color="#DAA520">#DAA520</font></td><td bgcolor="#DAA520">rgb(218, 165, 32)</td></tr><tr><td><font color="Gray">Gray</font></td><td><font color="#808080">#808080</font></td><td bgcolor="#808080">rgb(128, 128, 128)</td></tr><tr><td><font color="Green">Green</font></td><td><font color="#008000">#008000</font></td><td bgcolor="#008000">rgb(0, 128, 0)</td></tr><tr><td><font color="GreenYellow">GreenYellow</font></td><td><font color="#ADFF2F">#ADFF2F</font></td><td bgcolor="#ADFF2F">rgb(173, 255, 47)</td></tr><tr><td><font color="HoneyDew">HoneyDew</font></td><td><font color="#F0FFF0">#F0FFF0</font></td><td bgcolor="#F0FFF0">rgb(240, 255, 240)</td></tr><tr><td><font color="HotPink">HotPink</font></td><td><font color="#FF69B4">#FF69B4</font></td><td bgcolor="#FF69B4">rgb(255, 105, 180)</td></tr><tr><td><font color="IndianRed">IndianRed</font></td><td><font color="#CD5C5C">#CD5C5C</font></td><td bgcolor="#CD5C5C">rgb(205, 92, 92)</td></tr><tr><td><font color="Indigo">Indigo</font></td><td><font color="#4B0082">#4B0082</font></td><td bgcolor="#4B0082">rgb(75, 0, 130)</td></tr><tr><td><font color="Ivory">Ivory</font></td><td><font color="#FFFFF0">#FFFFF0</font></td><td bgcolor="#FFFFF0">rgb(255, 255, 240)</td></tr><tr><td><font color="Khaki">Khaki</font></td><td><font color="#F0E68C">#F0E68C</font></td><td bgcolor="#F0E68C">rgb(240, 230, 140)</td></tr><tr><td><font color="Lavender">Lavender</font></td><td><font color="#E6E6FA">#E6E6FA</font></td><td bgcolor="#E6E6FA">rgb(230, 230, 250)</td></tr><tr><td><font color="LavenderBlush">LavenderBlush</font></td><td><font color="#FFF0F5">#FFF0F5</font></td><td bgcolor="#FFF0F5">rgb(255, 240, 245)</td></tr><tr><td><font color="LawnGreen">LawnGreen</font></td><td><font color="#7CFC00">#7CFC00</font></td><td bgcolor="#7CFC00">rgb(124, 252, 0)</td></tr><tr><td><font color="LemonChiffon">LemonChiffon</font></td><td><font color="#FFFACD">#FFFACD</font></td><td bgcolor="#FFFACD">rgb(255, 250, 205)</td></tr><tr><td><font color="LightBlue">LightBlue</font></td><td><font color="#ADD8E6">#ADD8E6</font></td><td bgcolor="#ADD8E6">rgb(173, 216, 230)</td></tr><tr><td><font color="LightCoral">LightCoral</font></td><td><font color="#F08080">#F08080</font></td><td bgcolor="#F08080">rgb(240, 128, 128)</td></tr><tr><td><font color="LightCyan">LightCyan</font></td><td><font color="#E0FFFF">#E0FFFF</font></td><td bgcolor="#E0FFFF">rgb(224, 255, 255)</td></tr><tr><td><font color="LightGoldenRodYellow">LightGoldenRodYellow</font></td><td><font color="#FAFAD2">#FAFAD2</font></td><td bgcolor="#FAFAD2">rgb(250, 250, 210)</td></tr><tr><td><font color="LightGrey">LightGrey</font></td><td><font color="#D3D3D3">#D3D3D3</font></td><td bgcolor="#D3D3D3">rgb(211, 211, 211)</td></tr><tr><td><font color="LightGreen">LightGreen</font></td><td><font color="#90EE90">#90EE90</font></td><td bgcolor="#90EE90">rgb(144, 238, 144)</td></tr><tr><td><font color="LightPink">LightPink</font></td><td><font color="#FFB6C1">#FFB6C1</font></td><td bgcolor="#FFB6C1">rgb(255, 182, 193)</td></tr><tr><td><font color="LightSalmon">LightSalmon</font></td><td><font color="#FFA07A">#FFA07A</font></td><td bgcolor="#FFA07A">rgb(255, 160, 122)</td></tr><tr><td><font color="LightSeaGreen">LightSeaGreen</font></td><td><font color="#20B2AA">#20B2AA</font></td><td bgcolor="#20B2AA">rgb(32, 178, 170)</td></tr><tr><td><font color="LightSkyBlue">LightSkyBlue</font></td><td><font color="#87CEFA">#87CEFA</font></td><td bgcolor="#87CEFA">rgb(135, 206, 250)</td></tr><tr><td><font color="LightSlateBlue">LightSlateBlue</font></td><td><font color="#8470FF">#8470FF</font></td><td bgcolor="#8470FF">rgb(132, 112, 255)</td></tr><tr><td><font color="LightSlateGray">LightSlateGray</font></td><td><font color="#778899">#778899</font></td><td bgcolor="#778899">rgb(119, 136, 153)</td></tr><tr><td><font color="LightSteelBlue">LightSteelBlue</font></td><td><font color="#B0C4DE">#B0C4DE</font></td><td bgcolor="#B0C4DE">rgb(176, 196, 222)</td></tr><tr><td><font color="LightYellow">LightYellow</font></td><td><font color="#FFFFE0">#FFFFE0</font></td><td bgcolor="#FFFFE0">rgb(255, 255, 224)</td></tr><tr><td><font color="Lime">Lime</font></td><td><font color="#00FF00">#00FF00</font></td><td bgcolor="#00FF00">rgb(0, 255, 0)</td></tr><tr><td><font color="LimeGreen">LimeGreen</font></td><td><font color="#32CD32">#32CD32</font></td><td bgcolor="#32CD32">rgb(50, 205, 50)</td></tr><tr><td><font color="Linen">Linen</font></td><td><font color="#FAF0E6">#FAF0E6</font></td><td bgcolor="#FAF0E6">rgb(250, 240, 230)</td></tr><tr><td><font color="Magenta">Magenta</font></td><td><font color="#FF00FF">#FF00FF</font></td><td bgcolor="#FF00FF">rgb(255, 0, 255)</td></tr><tr><td><font color="Maroon">Maroon</font></td><td><font color="#800000">#800000</font></td><td bgcolor="#800000">rgb(128, 0, 0)</td></tr><tr><td><font color="MediumAquaMarine">MediumAquaMarine</font></td><td><font color="#66CDAA">#66CDAA</font></td><td bgcolor="#66CDAA">rgb(102, 205, 170)</td></tr><tr><td><font color="MediumBlue">MediumBlue</font></td><td><font color="#0000CD">#0000CD</font></td><td bgcolor="#0000CD">rgb(0, 0, 205)</td></tr><tr><td><font color="MediumOrchid">MediumOrchid</font></td><td><font color="#BA55D3">#BA55D3</font></td><td bgcolor="#BA55D3">rgb(186, 85, 211)</td></tr><tr><td><font color="MediumPurple">MediumPurple</font></td><td><font color="#9370D8">#9370D8</font></td><td bgcolor="#9370D8">rgb(147, 112, 216)</td></tr><tr><td><font color="MediumSeaGreen">MediumSeaGreen</font></td><td><font color="#3CB371">#3CB371</font></td><td bgcolor="#3CB371">rgb(60, 179, 113)</td></tr><tr><td><font color="MediumSlateBlue">MediumSlateBlue</font></td><td><font color="#7B68EE">#7B68EE</font></td><td bgcolor="#7B68EE">rgb(123, 104, 238)</td></tr><tr><td><font color="MediumSpringGreen">MediumSpringGreen</font></td><td><font color="#00FA9A">#00FA9A</font></td><td bgcolor="#00FA9A">rgb(0, 250, 154)</td></tr><tr><td><font color="MediumTurquoise">MediumTurquoise</font></td><td><font color="#48D1CC">#48D1CC</font></td><td bgcolor="#48D1CC">rgb(72, 209, 204)</td></tr><tr><td><font color="MediumVioletRed">MediumVioletRed</font></td><td><font color="#C71585">#C71585</font></td><td bgcolor="#C71585">rgb(199, 21, 133)</td></tr><tr><td><font color="MidnightBlue">MidnightBlue</font></td><td><font color="#191970">#191970</font></td><td bgcolor="#191970">rgb(25, 25, 112)</td></tr><tr><td><font color="MintCream">MintCream</font></td><td><font color="#F5FFFA">#F5FFFA</font></td><td bgcolor="#F5FFFA">rgb(245, 255, 250)</td></tr><tr><td><font color="MistyRose">MistyRose</font></td><td><font color="#FFE4E1">#FFE4E1</font></td><td bgcolor="#FFE4E1">rgb(255, 228, 225)</td></tr><tr><td><font color="Moccasin">Moccasin</font></td><td><font color="#FFE4B5">#FFE4B5</font></td><td bgcolor="#FFE4B5">rgb(255, 228, 181)</td></tr><tr><td><font color="NavajoWhite">NavajoWhite</font></td><td><font color="#FFDEAD">#FFDEAD</font></td><td bgcolor="#FFDEAD">rgb(255, 222, 173)</td></tr><tr><td><font color="Navy">Navy</font></td><td><font color="#000080">#000080</font></td><td bgcolor="#000080">rgb(0, 0, 128)</td></tr><tr><td><font color="OldLace">OldLace</font></td><td><font color="#FDF5E6">#FDF5E6</font></td><td bgcolor="#FDF5E6">rgb(253, 245, 230)</td></tr><tr><td><font color="Olive">Olive</font></td><td><font color="#808000">#808000</font></td><td bgcolor="#808000">rgb(128, 128, 0)</td></tr><tr><td><font color="OliveDrab">OliveDrab</font></td><td><font color="#6B8E23">#6B8E23</font></td><td bgcolor="#6B8E23">rgb(107, 142, 35)</td></tr><tr><td><font color="Orange">Orange</font></td><td><font color="#FFA500">#FFA500</font></td><td bgcolor="#FFA500">rgb(255, 165, 0)</td></tr><tr><td><font color="OrangeRed">OrangeRed</font></td><td><font color="#FF4500">#FF4500</font></td><td bgcolor="#FF4500">rgb(255, 69, 0)</td></tr><tr><td><font color="Orchid">Orchid</font></td><td><font color="#DA70D6">#DA70D6</font></td><td bgcolor="#DA70D6">rgb(218, 112, 214)</td></tr><tr><td><font color="PaleGoldenRod">PaleGoldenRod</font></td><td><font color="#EEE8AA">#EEE8AA</font></td><td bgcolor="#EEE8AA">rgb(238, 232, 170)</td></tr><tr><td><font color="PaleGreen">PaleGreen</font></td><td><font color="#98FB98">#98FB98</font></td><td bgcolor="#98FB98">rgb(152, 251, 152)</td></tr><tr><td><font color="PaleTurquoise">PaleTurquoise</font></td><td><font color="#AFEEEE">#AFEEEE</font></td><td bgcolor="#AFEEEE">rgb(175, 238, 238)</td></tr><tr><td><font color="PaleVioletRed">PaleVioletRed</font></td><td><font color="#D87093">#D87093</font></td><td bgcolor="#D87093">rgb(216, 112, 147)</td></tr><tr><td><font color="PapayaWhip">PapayaWhip</font></td><td><font color="#FFEFD5">#FFEFD5</font></td><td bgcolor="#FFEFD5">rgb(255, 239, 213)</td></tr><tr><td><font color="PeachPuff">PeachPuff</font></td><td><font color="#FFDAB9">#FFDAB9</font></td><td bgcolor="#FFDAB9">rgb(255, 218, 185)</td></tr><tr><td><font color="Peru">Peru</font></td><td><font color="#CD853F">#CD853F</font></td><td bgcolor="#CD853F">rgb(205, 133, 63)</td></tr><tr><td><font color="Pink">Pink</font></td><td><font color="#FFC0CB">#FFC0CB</font></td><td bgcolor="#FFC0CB">rgb(255, 192, 203)</td></tr><tr><td><font color="Plum">Plum</font></td><td><font color="#DDA0DD">#DDA0DD</font></td><td bgcolor="#DDA0DD">rgb(221, 160, 221)</td></tr><tr><td><font color="PowderBlue">PowderBlue</font></td><td><font color="#B0E0E6">#B0E0E6</font></td><td bgcolor="#B0E0E6">rgb(176, 224, 230)</td></tr><tr><td><font color="Purple">Purple</font></td><td><font color="#800080">#800080</font></td><td bgcolor="#800080">rgb(128, 0, 128)</td></tr><tr><td><font color="Red">Red</font></td><td><font color="#FF0000">#FF0000</font></td><td bgcolor="#FF0000">rgb(255, 0, 0)</td></tr><tr><td><font color="RosyBrown">RosyBrown</font></td><td><font color="#BC8F8F">#BC8F8F</font></td><td bgcolor="#BC8F8F">rgb(188, 143, 143)</td></tr><tr><td><font color="RoyalBlue">RoyalBlue</font></td><td><font color="#4169E1">#4169E1</font></td><td bgcolor="#4169E1">rgb(65, 105, 225)</td></tr><tr><td><font color="SaddleBrown">SaddleBrown</font></td><td><font color="#8B4513">#8B4513</font></td><td bgcolor="#8B4513">rgb(139, 69, 19)</td></tr><tr><td><font color="Salmon">Salmon</font></td><td><font color="#FA8072">#FA8072</font></td><td bgcolor="#FA8072">rgb(250, 128, 114)</td></tr><tr><td><font color="SandyBrown">SandyBrown</font></td><td><font color="#F4A460">#F4A460</font></td><td bgcolor="#F4A460">rgb(244, 164, 96)</td></tr><tr><td><font color="SeaGreen">SeaGreen</font></td><td><font color="#2E8B57">#2E8B57</font></td><td bgcolor="#2E8B57">rgb(46, 139, 87)</td></tr><tr><td><font color="SeaShell">SeaShell</font></td><td><font color="#FFF5EE">#FFF5EE</font></td><td bgcolor="#FFF5EE">rgb(255, 245, 238)</td></tr><tr><td><font color="Sienna">Sienna</font></td><td><font color="#A0522D">#A0522D</font></td><td bgcolor="#A0522D">rgb(160, 82, 45)</td></tr><tr><td><font color="Silver">Silver</font></td><td><font color="#C0C0C0">#C0C0C0</font></td><td bgcolor="#C0C0C0">rgb(192, 192, 192)</td></tr><tr><td><font color="SkyBlue">SkyBlue</font></td><td><font color="#87CEEB">#87CEEB</font></td><td bgcolor="#87CEEB">rgb(135, 206, 235)</td></tr><tr><td><font color="SlateBlue">SlateBlue</font></td><td><font color="#6A5ACD">#6A5ACD</font></td><td bgcolor="#6A5ACD">rgb(106, 90, 205)</td></tr><tr><td><font color="SlateGray">SlateGray</font></td><td><font color="#708090">#708090</font></td><td bgcolor="#708090">rgb(112, 128, 144)</td></tr><tr><td><font color="Snow">Snow</font></td><td><font color="#FFFAFA">#FFFAFA</font></td><td bgcolor="#FFFAFA">rgb(255, 250, 250)</td></tr><tr><td><font color="SpringGreen">SpringGreen</font></td><td><font color="#00FF7F">#00FF7F</font></td><td bgcolor="#00FF7F">rgb(0, 255, 127)</td></tr><tr><td><font color="SteelBlue">SteelBlue</font></td><td><font color="#4682B4">#4682B4</font></td><td bgcolor="#4682B4">rgb(70, 130, 180)</td></tr><tr><td><font color="Tan">Tan</font></td><td><font color="#D2B48C">#D2B48C</font></td><td bgcolor="#D2B48C">rgb(210, 180, 140)</td></tr><tr><td><font color="Teal">Teal</font></td><td><font color="#008080">#008080</font></td><td bgcolor="#008080">rgb(0, 128, 128)</td></tr><tr><td><font color="Thistle">Thistle</font></td><td><font color="#D8BFD8">#D8BFD8</font></td><td bgcolor="#D8BFD8">rgb(216, 191, 216)</td></tr><tr><td><font color="Tomato">Tomato</font></td><td><font color="#FF6347">#FF6347</font></td><td bgcolor="#FF6347">rgb(255, 99, 71)</td></tr><tr><td><font color="Turquoise">Turquoise</font></td><td><font color="#40E0D0">#40E0D0</font></td><td bgcolor="#40E0D0">rgb(64, 224, 208)</td></tr><tr><td><font color="Violet">Violet</font></td><td><font color="#EE82EE">#EE82EE</font></td><td bgcolor="#EE82EE">rgb(238, 130, 238)</td></tr><tr><td><font color="VioletRed">VioletRed</font></td><td><font color="#D02090">#D02090</font></td><td bgcolor="#D02090">rgb(208, 32, 144)</td></tr><tr><td><font color="Wheat">Wheat</font></td><td><font color="#F5DEB3">#F5DEB3</font></td><td bgcolor="#F5DEB3">rgb(245, 222, 179)</td></tr><tr><td><font color="White">White</font></td><td><font color="#FFFFFF">#FFFFFF</font></td><td bgcolor="#FFFFFF">rgb(255, 255, 255)</td></tr><tr><td><font color="WhiteSmoke">WhiteSmoke</font></td><td><font color="#F5F5F5">#F5F5F5</font></td><td bgcolor="#F5F5F5">rgb(245, 245, 245)</td></tr><tr><td><font color="Yellow">Yellow</font></td><td><font color="#FFFF00">#FFFF00</font></td><td bgcolor="#FFFF00">rgb(255, 255, 0)</td></tr><tr><td><font color="YellowGreen">YellowGreen</font></td><td><font color="#9ACD32">#9ACD32</font></td><td bgcolor="#9ACD32">rgb(154, 205, 50)</td></tr></tbody></table>
-
-
-
 #### 5、颜色库
 
 <table>
@@ -2386,7 +2378,869 @@ markdown绝大多数编辑器都是支持html语言的，markdown本身不支持
 
 
 
+### 六、绘图
 
+这些复杂图形的绘制都是使用代码块实现的，指定代码块的解析语言，按照响应的绘制语法即可实现。
+
+- 流程图——指定 <font color=red>`mermaid`</font>（样式流程图） 或 <font color=red>`flow`</font> （标准流程图）解析语言
+- 时序图——指定 `sequence`（标准时序图） 或 `mermaid`（样式时序图） 解析语言
+- 甘特图——指定 `mermaid` 解析语言
+
+#### 1、流程图
+
+##### 样式流程图
+
+基本语法：
+
+- `graph` 指定流程图方向：`graph LR` 横向，`graph TD` 纵向
+- 元素的形状定义：
+  - `id[描述]` 以直角矩形绘制
+  - `id(描述)` 以圆角矩形绘制
+  - `id{描述}` 以菱形绘制
+  - `id>描述]` 以不对称矩形绘制
+  - `id((描述))` 以圆形绘制
+- 线条定义：
+  - `A-->B` 带箭头指向
+  - `A---B` 不带箭头连接
+  - `A-.-B` 虚线连接
+  - `A-.->B` 虚线指向
+  - `A==>B` 加粗箭头指向
+  - `A--描述---B` 不带箭头指向并在线段中间添加描述
+  - `A--描述-->B` 带描述的箭头指向
+  - `A-.描述.->B` 带描述的虚线连指向
+  - `A==描述==>B` 带描述的加粗箭头指向
+- 子流程图定义：
+
+```
+subgraph title
+    graph direction
+end
+```
+
+示例：
+
+```
+​```mermaid
+graph LR
+    A(开始) -->B(起床)
+    B --天气不好--- C>干活]
+    C ==> D{休息时间到了}
+    D -.yes.-> E((休息))
+    D -.no.-> C
+    E --> F(吃饭)
+```
+
+```mermaid
+graph LR
+    A(开始) -->B(起床)
+    B --天气不好--- C>干活]
+    C ==> D{休息时间到了}
+    D -.yes.-> E((休息))
+    D -.no.-> C
+    E --> F(吃饭)
+```
+
+<center>样式流程图</center>
+##### 标准流程图
+
+基本语法：
+
+- 定义模块 `id=>关键字: 描述` （“描述”的前面必须有空格，“=>” 两端不能有空格）
+- 关键字：
+  - `start` 流程开始，以圆角矩形绘制
+  - `opearation` 操作，以直角矩形绘制
+  - `condition` 判断，以菱形绘制
+  - `subroutine` 子流程，以左右带空白框的矩形绘制
+  - `inputoutput` 输入输出，以平行四边形绘制
+  - `end` 流程结束，以圆角矩形绘制
+- 定义模块间的流向：
+  - `模块1 id->模块2 id` ：一般的箭头指向
+  - `条件模块id (描述)->模块id(direction)` ：条件模块跳转到对应的执行模块，并指定对应分支的布局方向
+
+示例：
+
+```
+​```mermaid
+flowchat
+st=>start: 开始
+ipt=>inputoutput: 输入一个x
+op=>operation: 处理加工x+1
+cond=>condition: 溢出（是或否？）
+sub=>subroutine: 子流程
+io=>inputoutput: 输出x
+ed=>end: 结束
+```
+
+st->ipt->op->cond
+cond(yes)->io->ed
+cond(no)->sub->io->ed
+
+
+
+![img](https://upload-images.jianshu.io/upload_images/12676317-6eb0483055b2236f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+
+<center>标准流程图</center>
+##### yes和no的位置控制
+
+在连接流程图的时候，对于condition类型，有yes和no两个分支，markdown中默认的是：将yes放在下面，no放在右面。并且condition的两个分支也只有下和右这两个方向。前者用left表示，后者用right表示。
+1个condition不具有普遍性，要求至少2个才有研究价值。下面以2个condition为例。
+
+如下图所示，只标出yes和no，但不标记left和right，默认是yes在下面，no在右面。
+
+```flow
+st=>start: 开始
+e=>end: 结束
+cond1=>condition: Yes or No?
+op1=>operation: My operation1
+cond2=>condition: Yes or No?
+op2=>operation: My operation2
+
+st->cond1(no)->cond2(no)->e
+cond1(yes)->op1->e
+cond2(yes)->op2->e
+```
+
+**如果同时限制left和right，那么将按照默认的位置显示。** 
+例如：尝试将yes在右面显示，no在下面显示。在代码中标记出left和right。具体如下：
+
+```flow
+st=>start: 开始
+e=>end: 结束
+cond1=>condition: Yes or No?
+op1=>operation: My operation1
+cond2=>condition: Yes or No?
+op2=>operation: My operation2
+
+st->cond1(no,left)->cond2(no,left)->e
+cond1(yes,right)->op1->e
+cond2(yes,right)->op2->e
+```
+
+
+```flow
+st=>start: 开始
+e=>end: 结束
+cond1=>condition: Yes or No?
+op1=>operation: My operation1
+cond2=>condition: Yes or No?
+op2=>operation: My operation2
+
+st->cond1(no,left)->cond2(no,left)->e
+cond1(yes)->op1->e
+cond2(yes)->op2->e
+```
+
+总结：在连接流程图的时候，对于condition类型，有yes和no两个分支，默认情况下，yes在下面显示，right在右面显示。如果同时限制left和right，那么将按照默认的位置显示；如果只限制其中一个，那么另一个也自动限定，则可以按照设定的进行显示。  
+
+It is powered by [flowchart.js](http://flowchart.js.org/), which would turn following code block into rendered diagrams:
+
+~~~flow
+```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+~~~
+
+
+
+#### 2、 时序图
+
+##### 标准时序图
+
+基本语法：
+
+- `Title:标题` ：指定时序图的标题
+- `Note direction of 对象:描述` ： 在对象的某一侧添加描述，`direction` 可以为 `right/left/over` ， `对象` 可以是多个对象，以 `,` 作为分隔符
+- `participant 对象` ：创建一个对象
+- `loop...end` ：创建一个循环体
+- `对象A->对象B:描述` ： 绘制A与B之间的对话，以实线连接
+  - `->` 实线实心箭头指向
+  - `-->` 虚线实心箭头指向
+  - `->>` 实线小箭头指向
+  - `-->>` 虚线小箭头指向
+
+**示例：**
+
+```
+​```sequence
+Title:时序图示例
+客户端->服务端: 我想找你拿下数据 SYN
+服务端-->客户端: 我收到你的请求啦 ACK+SYN
+客户端->>服务端: 我收到你的确认啦，我们开始通信吧 ACK
+Note right of 服务端: 我是一个服务端
+Note left of 客户端: 我是一个客户端
+Note over 服务端,客户端: TCP 三次握手
+participant 观察者
+```
+
+```sequence
+Title:时序图示例
+客户端->服务端: 我想找你拿下数据 SYN
+服务端-->客户端: 我收到你的请求啦 ACK+SYN
+客户端->>服务端: 我收到你的确认啦，我们开始通信吧 ACK
+Note right of 服务端: 我是一个服务端
+Note left of 客户端: 我是一个客户端
+Note over 服务端,客户端: TCP 三次握手
+participant 观察者
+```
+
+<center>标准时序图</center>
+It is powered by [js-sequence](https://bramp.github.io/js-sequence-diagrams/), which would turn following code block into rendered diagrams:
+
+```
+​```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+​```
+```
+
+
+
+
+
+
+
+
+
+##### 带样式时序图
+
+基本语法同标准时序图，不同的是
+
+- 需要使用 `mermaid` 解析，并在开头使用关键字 `sequenceDiagram` 指明
+
+- 线段的样式遵循`mermaid`的解析方式
+
+  - `->` ： 实线连接
+- `-->` ：虚线连接
+  - `->>` ：实线箭头指向
+  - `-->>` ：虚线箭头指向
+
+示例：
+
+~~~
+```mermaid
+sequenceDiagram
+对象A->对象B:中午吃什么？
+对象B->>对象A: 随便
+loop 思考
+    对象A->对象A: 努力搜索
+end
+对象A-->>对象B: 火锅？
+对象B->>对象A: 可以
+Note left of 对象A: 我是一个对象A
+Note right of 对象B: 我是一个对象B
+participant 对象C
+Note over 对象C: 我自己说了算
+~~~
+
+```mermaid
+sequenceDiagram
+对象A->对象B:中午吃什么？
+对象B->>对象A: 随便
+loop 思考
+    对象A->对象A: 努力搜索
+end
+对象A-->>对象B: 火锅？
+对象B->>对象A: 可以
+Note left of 对象A: 我是一个对象A
+Note right of 对象B: 我是一个对象B
+participant 对象C
+Note over 对象C: 我自己说了算
+```
+
+<center>样式时序图</center>
+#### 3、甘特图
+
+基本语法：
+
+- 使用 `mermaid` 解析语言，在开头使用关键字 `gantt` 指明
+
+- `deteFormat 格式` 指明日期的显示格式
+
+- `title 标题` 设置图标的标题
+
+- `section 描述` 定义纵向上的一个环节
+
+- 定义步骤：每个步骤有两种状态`done` （已完成）/ `active`（执行中）
+  - `描述: 状态,id,开始日期,结束日期/持续时间`
+  - `描述: 状态[,id],after id2,持续时间`
+  - `crit` ：可用于标记该步骤需要被修正，将高亮显示
+  - 如果不指定具体的开始时间或在某个步骤之后，将默认依次顺序排列
+
+示例：
+
+```
+​```mermaid
+gantt
+        dateFormat  YYYY-MM-DD
+
+        title 软件开发甘特图
+
+        section 设计
+        需求:done,des1, 2019-01-06,2019-01-08
+        原型:active,des2, 2019-01-09, 3d
+        UI设计:des3, after des2, 5d
+        未来任务:des4, after des3, 5d
+
+        section 开发
+        学习准备理解需求:crit, done, 2019-01-06,24h
+        设计框架:crit, done, after des2, 2d
+        开发:crit, active, 3d
+        未来任务:crit, 5d
+        休息时间:2d
+
+        section 测试
+        功能测试:active, a1, after des3, 3d
+        压力测试:after a1, 20h
+        测试报告: 48h
+```
+
+```mermaid
+gantt
+        dateFormat  YYYY-MM-DD
+
+        title 软件开发甘特图
+
+        section 设计
+        需求:done,des1, 2019-01-06,2019-01-08
+        原型:active,des2, 2019-01-09, 3d
+        UI设计:des3, after des2, 5d
+        未来任务:des4, after des3, 5d
+
+        section 开发
+        学习准备理解需求:crit, done, 2019-01-06,24h
+        设计框架:crit, done, after des2, 2d
+        开发:crit, active, 3d
+        未来任务:crit, 5d
+        休息时间:2d
+
+        section 测试
+        功能测试:active, a1, after des3, 3d
+        压力测试:after a1, 20h
+        测试报告: 48h
+```
+
+Typora also has integration with [mermaid](https://knsv.github.io/mermaid/#mermaid), which supports sequence, flowchart and Gantt.
+
+```mermaid
+sequenceDiagram
+    Alice->>Bob: Hello Bob, how are you?
+    alt is sick
+    Bob->>Alice: Not so good :(
+    else is well
+    Bob->>Alice: Feeling fresh like a daisy
+    end
+    opt Extra response
+    Bob->>Alice: Thanks for asking
+    end
+```
+
+```mermaid
+graph LR
+A[Hard edge] -->B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+```
+
+```mermaid
+%% Example with selection of syntaxes
+        gantt
+        dateFormat  YYYY-MM-DD
+        title Adding GANTT diagram functionality to mermaid
+
+        section A section
+        Completed task            :done,    des1, 2014-01-06,2014-01-08
+        Active task               :active,  des2, 2014-01-09, 3d
+        Future task               :         des3, after des2, 5d
+        Future task2               :         des4, after des3, 5d
+
+        section Critical tasks
+        Completed task in the critical line :crit, done, 2014-01-06,24h
+        Implement parser and jison          :crit, done, after des1, 2d
+        Create tests for parser             :crit, active, 3d
+        Future task in critical line        :crit, 5d
+        Create tests for renderer           :2d
+        Add to mermaid                      :1d
+
+        section Documentation
+        Describe gantt syntax               :active, a1, after des1, 3d
+        Add gantt diagram to demo page      :after a1  , 20h
+        Add another diagram to demo page    :doc1, after a1  , 48h
+
+        section Last section
+        Describe gantt syntax               :after doc1, 3d
+        Add gantt diagram to demo page      : 20h
+        Add another diagram to demo page    : 48h
+```
+
+
+
+### 七、添加数学公式
+
+#### 1、打开Typora选择数学模块
+
+- 点击“段落”—>“公式块”
+- 快捷键Ctrl+Shift+m
+- “$$”+回车
+
+$$
+
+$$
+
+
+
+#### 2、添加数学公式
+
+输出美观规范的数学公式，要清楚它们的格式和代码，在编辑栏中输入代码，对应的公式会在下面实时显示，如：
+
+![1](typora.gif)
+
+
+
+#### 3、常用公式的代码
+
+**上/下标**
+
+|  算式  | Markdown |
+| :----: | :------: |
+| $x^2 $ |   x^2    |
+| $y_1 $ |   y_1    |
+
+注意：上下标如果多于一个字母或者符号，需要用一对{}括起来 eg：$x_{i1}$，$x^{at}$
+
+
+
+**分式**
+
+|     算式      |  Markdown   |
+| :-----------: | :---------: |
+|      1/2      |     1/2     |
+| $\frac{1}{2}$ | \frac{1}{2} |
+
+**省略号**
+
+| 省略号 | Markdown |
+| :----: | :------: |
+|   ⋯    |  \cdots  |
+
+**开根号**
+
+|    算式    | Markdown |
+| :--------: | :------: |
+| $\sqrt{2}$ | \sqrt{2} |
+
+**矢量**
+
+|   算式    | Markdown |
+| :-------: | :------: |
+| $\vec{a}$ | \vec{a}  |
+
+**积分**
+
+|        算式         |     Markdown      |
+| :-----------------: | :---------------: |
+|     $\int{x}dx$     |     \int{x}dx     |
+| $\int_{1}^{2}{x}dx$ | \int_{1}^{2}{x}dx |
+
+**极限**
+
+|             算式             |          Markdown          |
+| :--------------------------: | :------------------------: |
+|         $\lim{a+b}$          |         \lim{a+b}          |
+| $\lim_{n\rightarrow+\infty}$ | \lim_{n\rightarrow+\infty} |
+
+**累加**
+
+|          算式           |       Markdown        |
+| :---------------------: | :-------------------: |
+|        $\sum{a}$        |        \sum{a}        |
+| $\sum_{n=1}^{100}{a_n}$ | \sum_{n=1}^{100}{a_n} |
+
+**累乘**
+
+|          算式           |       Markdown        |
+| :---------------------: | :-------------------: |
+|       $\prod{x}$        |       \prod{x}        |
+| $\prod_{n=1}^{99}{x_n}$ | \prod_{n=1}^{99}{x_n} |
+
+**集合**
+
+|     算式      |        Markdown         |     算式     |    Markdown    |
+| :-----------: | :---------------------: | :----------: | :------------: |
+| $\mathbb {R}$ | \mathbb{R} 或 \mathbb R | $\mathbb{z}$ |   \mathbb{z}   |
+| $\mathbb{N}$  |       \mathbb{N}        |              |                |
+|   $\subset$   |     真包含 \subset      | $\subseteq$  | 包含 \subseteq |
+|   $\supset$   |         \supset         |    $\in$     |      \in       |
+|    $\cap$     |          \cap           |    $\cup$    |      \cup      |
+|    $\mid$     |          \mid           |   $\notin$   |     \notin     |
+
+**字体转换**
+
+若要对公式的某一部分字符进行字体转换，可以用`{\字体 {需转换的部分字符}}` 命令，其中 `\字体` 部分可以参照下表选择合适的字体。一般情况下，公式默认为意大利体.
+
+|     输入      |    说明    |             显示实例             |
+| :-----------: | :--------: | :------------------------------: |
+|     `\rm`     |   罗马体   |             $\rm{D}$             |
+|    `\cal`     |    花体    |            $\cal{D}$             |
+|     `\it`     |  意大利体  |             $\it{D}$             |
+|    `\Bbb`     |  黑板粗体  |            $\Bbb{D}$             |
+|     `\bf`     |    粗体    |             $\bf{D}$             |
+|    `\mit`     |  数学斜体  |            $\mit{D}$             |
+|     `\sf`     |   等线体   |             $\sf{D}$             |
+|    `\scr`     |   手写体   |            $\scr{D}$             |
+|     `\tt`     |  打字机体  |             $\tt{D}$             |
+|    `\frak`    | 旧德式字体 |            $\frak{D}$            |
+| `\boldsymbol` |    黑体    | $\boldsymbol{X}, \boldsymbol{x}$ |
+
+**矩阵与行列式**
+
+矩阵：`$$\begin{matrix}...\end{matrix}$$` ,使用&分隔同行元素，\ 换行。eg:
+$$
+\begin{matrix}
+1 & x & x^2\\
+1 & y & y^2\\
+1 & z & z^2\\
+\end{matrix}
+$$
+行列式：
+$$
+X=\left|
+	\begin{matrix}
+		x_{11} & x_{12} & \cdots & x_{1d}\\
+		x_{21} & x_{22} & \cdots & x_{2d}\\
+		\vdots & \vdots & \ddots & \vdots \\
+		x_{11} & x_{12} & \cdots & x_{1d}\\
+	\end{matrix}
+\right|
+$$
+**分隔符**
+
+各种括号用 () [] { } \langle\rangle 等命令表示,注意花括号通常用来输入命令和环境的参数,所以在数学公式中它们前面要加 \。可以在上述分隔符前面加 \big \Big \bigg \Bigg 等命令来调整大小。
+
+**箭头**
+
+|         箭头         |      Markdown      |          箭头          |       Markdown       |
+| :------------------: | :----------------: | :--------------------: | :------------------: |
+|     $\leftarrow$     |     \leftarrow     |    $\longleftarrow$    |    \longleftarrow    |
+|    $\rightarrow$     |    \rightarrow     |   $\longrightarrow$    |   \longrightarrow    |
+|  $\leftrightarrow$   |  \leftrightarrow   | $\longleftrightarrow$  | \Longleftrightarrow  |
+|    $\Rightarrow$     |    \Rightarrow     |   $\Longrightarrow$    |   \Longrightarrow    |
+|  $\Leftrightarrow$   |  \Leftrightarrow   | $\Longleftrightarrow$  | \Longleftrightarrow  |
+|      $\uparrow$      |      \uparrow      |       $\Uparrow$       |       \Uparrow       |
+|     $\downarrow$     |     \downarrow     |      $\Downarrow$      |      \Downarrow      |
+|    $\updownarrow$    |    \updownarrow    |     $\Updownarrow$     |     \Updownarrow     |
+| $\twoheadrightarrow$ | \twoheadrightarrow |   $\rightarrowtail$    |   \rightarrowtail    |
+|  $\looparrowright$   |  \looparrowright   |   $\curvearrowright$   |   \curvearrowright   |
+| $\circlearrowright$  | \circlearrowright  |         $\Rsh$         |         \Rsh         |
+|     $\multimap$      |     \multimap      | $\leftrightsquigarrow$ | \leftrightsquigarrow |
+|  $\rightsquigarrow$  |  \rightsquigarrow  |       $\leadsto$       |       \leadsto       |
+|      $\nearrow$      |      \nearrow      |       $\searrow$       |       \searrow       |
+|      $\swarrow$      |      \swarrow      |       $\nwarrow$       |       \nwarrow       |
+|    $\nleftarrow$     |    \nleftarrow     |     $\nrightarrow$     |     \nrightarrow     |
+|    $\nLeftarrow$     |    \nLeftarrow     |     $\nRightarrow$     |     \nRightarrow     |
+|  $\nleftrightarrow$  |  \nleftrightarrow  |   $\nLeftrightarrow$   |   \nLeftrightarrow   |
+|  $\dashrightarrow$   |  \dashrightarrow   |    $\dashleftarrow$    |    \dashleftarrow    |
+|  $\leftleftarrows$   |  \leftleftarrows   |   $\leftrightarrows$   |   \leftrightarrows   |
+|    $\Lleftarrow$     |    \Lleftarrow     |  $\twoheadleftarrow$   |  \twoheadleftarrow   |
+|   $\leftarrowtail$   |   \leftarrowtail   |    $\looparrowleft$    |    \looparrowleft    |
+|  $\curvearrowleft$   |  \curvearrowleft   |   $\circlearrowleft$   |   \circlearrowleft   |
+|        $\Lsh$        |        \Lsh        |       $\mapsto$        |       \mapsto        |
+|   $\hookleftarrow$   |   \hookleftarrow   |   $\hookrightarrow$    |   \hookrightarrow    |
+|  $\upharpoonright$   |  \upharpoonright   |    $\upharpoonleft$    |    \upharpoonleft    |
+| $\downharpoonright$  | \downharpoonright  |   $\downharpoonleft$   |   \downharpoonleft   |
+|   $\leftharpoonup$   |   \leftharpoonup   |   $\rightharpoonup$    |   \rightharpoonup    |
+|  $\leftharpoondown$  |  \leftharpoondown  |  $\rightharpoondown$   |  \rightharpoondown   |
+|    $\upuparrows$     |    \upuparrows     |   $\downdownarrows$    |   \downdownarrows    |
+| $\rightrightarrows$  | \rightrightarrows  |   $\rightleftarrows$   |   \rightleftarrows   |
+| $\rightrightarrows$  | \rightrightarrows  |   $\rightleftarrows$   |   \rightleftarrows   |
+| $\rightleftharpoons$ | \rightleftharpoons |  $\leftrightharpoons$  |  \leftrightharpoons  |
+
+**方程式**
+$$
+E=mc^2
+$$
+**分段函数**
+$$
+f(n)=
+\begin{cases}
+n/2, & \text{if $n$ is even}\\
+3n+1,& \text{if $n$ is odd}
+\end{cases}
+$$
+**方程组**
+$$
+\left\{
+\begin{array}{c}
+a_1x+b_1y+c_1z=d_1\\
+a_2x+b_2y+c_2z=d_2\\
+a_3x+b_3y+c_3z=d_3
+\end{array}
+\right.
+$$
+**线性模型**
+$$
+h(\theta) = \sum_{j=0} ^n \theta_j x_j
+$$
+**均方误差**
+$$
+J(\theta) = \frac{1}{2m}\sum_{i=0}^m(y^i - h_\theta(x^i))^2
+$$
+**求积公式**
+$$
+H_c=\sum_{l_1+\dots +l_p}\prod^p_{i=1} \binom{n_i}{l_i}
+$$
+**批量梯度下降**
+$$
+\frac{\partial J(\theta)}{\partial\theta_j} = -\frac1m\sum_{i=0}^m(y^i - 	h_\theta(x^i))x^i_j
+$$
+**推导过程**
+$$
+\begin{align}
+	\frac{\partial J(\theta)}{\partial\theta_j}
+	& = -\frac1m\sum_{i=0}^m(y^i - h_\theta(x^i)) \frac{\partial}{\partial\theta_j}(y^i-h_\theta(x^i))\\
+	& = -\frac1m\sum_{i=0}^m(y^i-h_\theta(x^i)) \frac{\partial}{\partial\theta_j}(\sum_{j=0}^n\theta_j x^i_j-y^i)\\
+	&=-\frac1m\sum_{i=0}^m(y^i -h_\theta(x^i)) x^i_j
+\end{align}
+$$
+**字符下标**
+$$
+\max \limits_{a<x<b}\{f(x)\}
+$$
+**线形代数**
+$$
+X=\left(
+        \begin{matrix}
+            x_{11} & x_{12} & \cdots & x_{1d}\\
+            x_{21} & x_{22} & \cdots & x_{2d}\\
+            \vdots & \vdots & \ddots & \vdots\\
+            x_{m1} & x_{m2} & \cdots & x_{md}\\
+        \end{matrix}
+    \right)
+    =\left(
+         \begin{matrix}
+                x_1^T \\
+                x_2^T \\
+                \vdots\\
+                x_m^T \\
+            \end{matrix}
+    \right)
+$$
+**希腊字母**
+
+| 大写 | Markdown | 小写 |  Markdown   |
+| :--: | :------: | :--: | :---------: |
+| *A*  |    A     | *α*  |   \alpha    |
+| *B*  |    B     | *β*  |    \beta    |
+|  Γ   |  \Gamma  | *γ*  |   \gamma    |
+|  Δ   |  \Delta  | *δ*  |   \delta    |
+| *E*  |    E     | *ϵ*  |  \epsilon   |
+|      |          | *ε*  | \varepsilon |
+| *Z*  |    Z     | *ζ*  |    \zeta    |
+| *H*  |    H     | *η*  |    \eta     |
+|  Θ   |  \Theta  | *θ*  |   \theta    |
+| *I*  |    I     | *ι*  |    \iota    |
+| *K*  |    K     | *κ*  |   \kappa    |
+|  Λ   | \Lambda  | *λ*  |   \lambda   |
+| *M*  |    M     | *μ*  |     \mu     |
+| *N*  |    N     | *ν*  |     \nu     |
+|  Ξ   |   \Xi    | *ξ*  |     \xi     |
+| *O*  |    O     | *ο*  |  \omicron   |
+|  Π   |   \Pi    | *π*  |     \pi     |
+| *P*  |    P     | *ρ*  |    \rho     |
+|  Σ   |  \Sigma  | *σ*  |   \sigma    |
+| *T*  |    T     | *τ*  |    \tau     |
+|  Υ   | \Upsilon | *υ*  |  \upsilon   |
+|  Φ   |   \Phi   | *ϕ*  |    \phi     |
+|      |          | *φ*  |   \varphi   |
+| *X*  |    X     | *χ*  |    \chi     |
+|  Ψ   |   \Psi   | *ψ*  |    \psi     |
+|  Ω   |  \Omega  | *ω*  |   \omega    |
+
+**三角函数**
+
+| 三角函数 | Markdown |
+| :------: | :------: |
+|   sin    |   \sin   |
+
+**对数函数**
+
+|   算式    | Markdown |
+| :-------: | :------: |
+|  $\ln2$   |   \ln2   |
+| $\log_28$ | \log_28  |
+|  $\lg10$  |  \lg10   |
+
+**关系运算符**
+
+| 运算符 | Markdown |
+| :----: | :------: |
+|   ±    |   \pm    |
+| \times |  \times  |
+|   ⋅    |  \cdot   |
+|   ÷    |   \div   |
+|  \neq  |   \neq   |
+|   ≡    |  \equiv  |
+|   ≤    |   \leq   |
+|   ≥    |   \geq   |
+
+**其它特殊字符**
+
+| 符号 |  Markdown  |
+| :--: | :--------: |
+|  ∀   |  \forall   |
+|  ∞   |   \infty   |
+|  ∅   | \emptyset  |
+|  ∃   |  \exists   |
+|  ∇   |   \nabla   |
+|  ⊥   |    \bot    |
+|  ∠   |   \angle   |
+|  ∵   |  \because  |
+|  ∴   | \therefore |
+
+**特殊字母**
+
+|      字母      |   Markdown   |      字母       |   Markdown    |
+| :------------: | :----------: | :-------------: | :-----------: |
+| $\overline{3}$ | \overline{3} | $\underline{3}$ | \underline{3} |
+|   $\hat{a}$    |   \hat{a}    |   $\acute{a}$   |   \acute{a}   |
+|  $\grave{a}$   |  \grave{a}   |   $\breve{a}$   |   \breve{a}   |
+|   $\bar{a}$    |   \bar{a}    | $\widetilde{A}$ | \widetilde{A} |
+|  $\check{a}$   |  \check{a}   |   $\tilde{a}$   |   \tilde{a}   |
+|   $\dot{a}$    |   \dot{a}    |   $\ddot{a}$    |   \ddot{a}    |
+|   $\vec{a}$    |   \vec{a}    |  $\widehat{A}$  |  \widehat{A}  |
+
+
+
+#### 4、行间公式与行内公式
+
+数学公式有两种形式： inline 和 display
+
+- `**inline`（行内公式）：在正文插入数学公式，用`$...$` 将公式括起来
+- `display`(行间公式) ：独立排列的公式，用 $$...$$将公式括起来，默认显示在行中间
+
+**花括号**
+
+```latex
+c(u)=\begin{cases} \sqrt\frac{1}{N}，u=0\\ \sqrt\frac{2}{N}， u\neq0\end{cases}  
+```
+
+$$
+c(u)=\begin{cases} \sqrt\frac{1}{N}，u=0\\ \sqrt\frac{2}{N}， u\neq0\end{cases}  
+$$
+
+**空格**
+
+```latex
+a \quad b
+```
+
+$$
+a \quad b
+$$
+
+
+
+#### 5、LaTeX大括号公式和一般括号总结
+
+**大括号显示**
+$$
+\begin{equation} 
+\left\{ 
+             \begin{array}{**lr**} 
+             x=\dfrac{3\pi}{2}(1+2t)\cos(\dfrac{3\pi}{2}(1+2t)), &  \\ 
+             y=s, & 0\leq s\leq L,|t|\leq1.\\ 
+             z=\dfrac{3\pi}{2}(1+2t)\sin(\dfrac{3\pi}{2}(1+2t)), & 
+             \end{array} 
+\right. 
+\end{equation}
+$$
+**对比括号**
+$$
+\begin{equation}  
+\left\{  
+\begin{array}{**rcl**}
+    IF_{k}(\hat{t}_{k,m})=IF_{m}(\hat{t}_{k,m}), & \\
+    IF_{k}(\hat{t}_{k,m}) \pm h= IF_{m}(\hat{t}_{k,m}) \pm h  , &\\
+    \left |IF'_{k}(\hat{t}_{k,m} - IF'_{m}(\hat{t}_{k,m} \right |\geq d , &   
+\end{array}
+\right.  
+\end{equation} 
+$$
+**常用的三种大括号写法**
+$$
+f(x)=\left\{
+\begin{aligned}
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
+\end{aligned}
+\right.
+$$
+
+$$
+F^{HLLC}=\left\{
+\begin{array}{rcl}
+F_L       &      & {0      <      S_L}\\
+F^*_L     &      & {S_L \leq 0 < S_M}\\
+F^*_R     &      & {S_M \leq 0 < S_R}\\
+F_R       &      & {S_R \leq 0}
+\end{array} \right.
+$$
+
+$$
+f(x)=
+\begin{cases}
+0& \text{x=0}\\
+1& \text{x!=0}
+\end{cases}$$
+$$
+
+#### 6、汇总
+
+| 关系运算符 |             markdown语言              |                     集合运算符                     |                     markdown语言                     | 对数运算符 | markdown语言 | 戴帽符号 | markdown语言  |
+| :--------: | :-----------------------------------: | :------------------------------------------------: | :--------------------------------------------------: | :--------: | :----------: | :------: | :-----------: |
+|     ±      |                `$\pm$`                |                         ∅                          |                    `$\emptyset$`                     |    log     |   `$\log$`   |    y^    |  `$\hat{y}$`  |
+|     ×      |              `$\times$`               |                         ∈                          |                       `$\in$`                        |     lg     |   `$\lg$`    |    yˇ    | `$\check{y}$` |
+|     ÷      |               `$\div$`                |                         ∉                          |                      `$\notin$`                      |     ln     |   `$\ln$`    |    y˘    | `$\breve{y}$` |
+|     ∣      |               `$\mid$`                |                         ⊂                          |                     `$\subset$`                      |            |              |          |               |
+|     ∤      |               `$\nmid$`               |                         ⊃                          |                     `$\supset$`                      |            |              |          |               |
+|     ⋅      |               `$\cdot$`               |                         ⊆                          |                    `$\subseteq$`                     |            |              |          |               |
+|     ∘      |               `$\circ$`               |                         ⊇                          |                    `$\supseteq$`                     |            |              |          |               |
+|     ∗      |               `$\ast$`                |                         ⋂                          |                     `$\bigcap$`                      |            |              |          |               |
+|     ⨀      |             `$\bigodot$`              |                         ⋃                          |                     `$\bigcup$`                      |            |              |          |               |
+|     ⨂      |            `$\bigotimes$`             |                         ⋁                          |                     `$\bigvee$`                      |            |              |          |               |
+|     ⨁      |             `$\bigoplus$`             |                         ⋁                          |                     `$\bigvee$`                      |            |              |          |               |
+|     ≤      |               `$\leq$`                |                         ⋀                          |                    `$\bigwedge$`                     |            |              |          |               |
+|     ≥      |               `$\geq$`                |                         ⨄                          |                    `$\biguplus$`                     |            |              |          |               |
+|     ≠      |               `$\neq$`                |                         ⨆                          |                    `$\bigsqcup$`                     |            |              |          |               |
+|     ≈      |              `$\approx$`              |                                                    |                                                      |            |              |          |               |
+|     ≡      |              `$\equiv$`               |                         ≪                          |                       `$\ll$`                        |     ≫      |   `$\gg$`    |          |               |
+|     ∑      |               `$\sum$`                |                                                    |                                                      |            |              |          |               |
+|     ∏      |               `$\prod$`               |                         ∼                          |                       `$\sim$`                       |            |              |          |               |
+|     ∐      |              `$\coprod$`              |                         ∽                          |                     `$\backsim$`                     |            |              |          |               |
+|   ≺ ⪯ ≻⪰   | `$\prec$ $\preceq$ $\succ$ $\succeq$` | $\left. \frac{ {\rm d}u}{ {\rm d}x} \right|_{x=0}$ | `$\left. \frac{ {\rm d}u}{ {\rm d}x} \right|_{x=0}$` |            |              |          |               |
+
+
+
+| 三角运算符 | markdown语言 | 微积分运算符 | markdown语言 |                逻辑运算符                |                markdown语言                |
+| :--------: | :----------: | :----------: | :----------: | :--------------------------------------: | :----------------------------------------: |
+|     ⊥      |   `$\bot$`   |      ′       |  `$\prime$`  |                    ∵                     |                `$\because$`                |
+|     ∠      |  `$\angle$`  |      ∫       |   `$\int$`   |                    ∴                     |               `$\therefore$`               |
+|    30∘     | `$30^\circ$` |      ∬       |  `$\iint$`   |                    ∀                     |                `$\forall$`                 |
+|    sin     |   `$\sin$`   |      ∭       |  `$\iiint$`  |                    ∃                     |                `$\exists$`                 |
+|    cos     |   `$\cos$`   |      ∬∬      | `$\iiiint$`  |                    ≠                     |                 `$\not=$`                  |
+|    tan     |   `$\tan$`   |      ∮       |  `$\oint$`   |                    ≯                     |                 `$\not>$`                  |
+|    cot     |   `$\cot$`   |     lim      |   `$\lim$`   |                    ⊄                     |              `$\not\subset$`               |
+|    sec     |   `$\sec$`   |      ∞       |  `$\infty$`  | $f: {\mathbf x_t} \mapsto {\mathbf y_t}$ | `$f: {\mathbf x_t} \mapsto {\mathbf y_t}$` |
+|    csc     |   `$\csc$`   |      ∇       |  `$\nabla$`  | $$\frac{\partial^{2}y}{\partial x^{2}}$$ | `$$\frac{\partial^{2}y}{\partial x^{2}}$$` |
 
 
 
